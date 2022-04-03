@@ -12,3 +12,5 @@
     H3k4me2
     H3k79me2
     H2az
+
+Cсылка на colab: https://colab.research.google.com/gist/hq43et28ms9z/1392cf6c4e589362319469a04e94b225/-dz3-ipynb.ipynb#scrollTo=PSWbbv8wcFUY
